@@ -1,7 +1,12 @@
-body {
-    background-color: black;
-}
+
+
 
 h2, p {
     color:purple;
 }
+
+bg-dark {
+    background-color: black;
+}
+
+
