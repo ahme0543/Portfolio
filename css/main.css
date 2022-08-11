@@ -1,8 +1,11 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@1,500&family=Figtree:wght@400;500&display=swap');
 
 body{
     background-color: rgb(184, 212, 197);
+    font-family: 'Cormorant', serif;
+font-family: 'Figtree', sans-serif;
 }
+
 
 
 h2, p {
