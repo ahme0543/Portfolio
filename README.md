@@ -5,3 +5,5 @@ My whole portfolio was used using the boostrap framework and library.the challan
 https://getbootstrap.com/docs/5.2/getting-started/introduction/ 
 
 This is the link of the boostrap from where I used my resources and cuztomized it. 
+ 
+I also used some aspects from W3schools and overstack along with google font.
